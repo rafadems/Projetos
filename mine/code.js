@@ -7,6 +7,10 @@ window.onload = function ()
     var pospb = 350;
     var posnb = 0;
     var id = setInterval(frame, 5);
+
+    /*
+    **  batata mucho boa
+    */
     function frame() 
     {
         if (pospa >= 0 && pospa <=350 && pospb <= 350 && pospb >= 0)
